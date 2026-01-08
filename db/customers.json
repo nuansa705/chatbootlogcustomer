@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Terdapat kendala dimana saat login pada Aplikasi QR code, terdapat masalah seperti pada gambar yang dilampirkan. Isu tersebut terjadi karena perbedaan pada awal huruf username. Contohnya randi.suria@lycon.co.id dan Randi.suria@lycon.co.id",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 2,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Terdapat kendala pada saat proses upload aset photo. Foto yang diupload tidak muncul di sistem. Sudah di coba beberapa kali namun hasilnya tetap sama.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 3,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Mohon info untuk fitur input setup data. Apakah ada dokumentasi atau panduan yang tersedia?",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 4,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Laporan untuk stock opname yang dilakukan pada tanggal kemarin. Mohon verifikasi data stock yang tersimpan.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 5,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Error saat melakukan sync data antara aplikasi printer app dan sistem. Data tidak sinkron.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 6,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Tampilan dashboard loading sangat lama saat pertama kali login. Lebih dari 30 detik.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 7,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Menu QR Code Aseta Printing tidak bisa diakses. Muncul error 404.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 8,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Saat mencetak QR code, hasilnya blur/tidak jelas. Mohon dicek kualitas cetaknya.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 9,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Aplikasi sering force close secara tiba-tiba tanpa pesan error yang jelas.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 10,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Permintaan untuk menambah user baru. User: john.doe@lycon.co.id",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 11,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Tidak bisa logout dari aplikasi. Tombol logout tidak merespon saat diklik.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 12,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Notifikasi tidak muncul di aplikasi. Padahal sudah ada tiket baru yang dibuat.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 13,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Search function tidak bekerja dengan baik. Hasil pencarian tidak akurat.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 14,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Profile user tidak bisa diupdate. Data kembali ke nilai awal setelah disimpan.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 15,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Export to PDF error saat ingin mengunduh laporan. File PDF tidak bisa di-download.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 16,
+    "customer_name": "Lycon Asia Mandiri",
+    "customer_code": "LAM",
+    "keluhan": "Terdapat duplicate data di sistem. Mohon dilakukan cleanup data duplikat.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 17,
+    "customer_name": "Komunitas Sagala Aya",
+    "customer_code": "KSA",
+    "keluhan": "Save pada saat stock opname untuk Customer KSA mengalami force close. Tapi ketika ditelusuri oleh tim operasional tidak ada force close yang terjadi melainkan data yang di save tidak tersimpan",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 18,
+    "customer_name": "Komunitas Sagala Aya",
+    "customer_code": "KSA",
+    "keluhan": "User KSA melaporkan tidak bisa login ke sistem. Error message: \"Invalid credentials\" padahal password sudah benar.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 19,
+    "customer_name": "Komunitas Sagala Aya",
+    "customer_code": "KSA",
+    "keluhan": "Request untuk reset password user KSA. User: ks.admin@sagalaya.com",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 20,
+    "customer_name": "Semen Tiga Roda",
+    "customer_code": "STR",
+    "keluhan": "Permintaan untuk akses fitur advance reporting. User STR membutuhkan laporan detail bulanan.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 21,
+    "customer_name": "Semen Tiga Roda",
+    "customer_code": "STR",
+    "keluhan": "Data loading lambat saat mengakses dashboard overview. Perlu optimasi query database.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 22,
+    "customer_name": "Semen Tiga Roda",
+    "customer_code": "STR",
+    "keluhan": "Error connection timeout saat koneksi ke database server. Perlu cek setting timeout.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 23,
+    "customer_name": "Semen Tiga Roda",
+    "customer_code": "STR",
+    "keluhan": "Report generation error. Laporan tidak bisa digenerate karena ada null value di data field.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 24,
+    "customer_name": "Semen Tiga Roda",
+    "customer_code": "STR",
+    "keluhan": "Notifikasi email tidak terkirim ke user. Mohon cek konfigurasi SMTP server.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  },
+  {
+    "id": 25,
+    "customer_name": "Semen Tiga Roda",
+    "customer_code": "STR",
+    "keluhan": "Backup database gagal dijalankan otomatis. Mohon manual setup backup schedule.",
+    "created_at": "2026-01-06T05:02:22.617Z"
+  }
+]

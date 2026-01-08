@@ -1,0 +1,81 @@
+,,,,,,,,,,,,,,Banyak Keluhan,20
+List Keluhan ASETA Basic / Esensial / Enhancement,,,,,,,,,,,,,,LAM,16
+https://drive.google.com/drive/folders/16ZNeEGCp7A7ZzJpIfvN0Ux8eUgT28Muq,,,,,,,,,,,,,,KSA,3
+,,,,,,,,,,,,,,STYP,1
+No,Tanggal,Kode Tiket,Kode Customer,Customer,Platform,Menu,Jenis,Keluhan/Permintaan,Lampiran,Status Keluhan,Remarks,,,,
+1,9/30/2025,#LAM09302025001,LAM,Lycon Asia Mandiri,Printer App,QR Code Aseta Printing,Permintaan,"Terdapat kendala dimana saat login pada Aplikasi QR code, terdapat masalah seperti pada gambar yang dilampirkan. Isu tersebut terjadi karena perbedaan pada awal huruf username. Contohnya randi.suria@lycon.co.id dan Randi.suria@lycon.co.id",Lampiran,Closed,,,,,
+2,7/10/2025,#KSA10072025001,KSA,Komunitas Sagala Aya,Android HH CHANWAY,Stock Opname ,Permintaan,Save pada saat stock opname untuk Customer KSA mengalami force close. Tapi ketika ditelusur oleh tim operasional tidak ada force close yang terjadi melainkan data yang di save tidak tersimpan ,-,Closed,,,,,
+3,13/10/2025,#LAM13102025002,LAM,Lycon Asia Mandiri,Web App,Master Data -> Asset ,Permintaan,"Perubahan kode aset yang sudah ter-register.
+1. SALAH : LAM-VEH-2025-0035
+BENAR : LAM-VEH-2013-0035
+
+2. SALAH : LAM-VEH-2024-0034
+BENAR : LAM-VEH-2016-0034",-,Closed,,,,,
+4,20/10/2025,#LAM20102025003,LAM,Lycon Asia Mandiri,Web App,Master Data -> Asset ,Permintaan,"Perubahan kode aset yang sudah ter-register.
+1. AWAL/SALAH : LAM-VEH-2013-0035
+
+2. AKHIR/BENAR : LAM-VEH-2014-0035",-,Closed,,,,,
+5,20/10/2025,#STYP20102025001,STYP,Gereje St. Yohanes Penginjil,Web App,Login Autentikasi,Permintaan,"Akun sarpras2blokb@gmail.com password invalid, 2x coba gagal",-,Closed,,,,,
+6,21/10/2025,#LAM21102025004,LAM,Lycon Asia Mandiri,Printer App,QR Code Aseta Printing,Permintaan,"Pengaturan printer selalu berubah setiap kali akan digunakan kembali. Saat printer tidak digunakan untuk sementara waktu, pengaturannya kembali ke awal sehingga harus disetel ulang, dan hal ini menghambat efisiensi waktu kerja.",-,Closed,,,,,
+7,22/10/2025,#LAM22102025005,LAM,Lycon Asia Mandiri,Android HP,Aseta Mobile,Permintaan,"Customer PT. Lycon Asia Mandiri memiliki dua akun, yaitu akun randi.suria@lycon.co.id yang menggunakan QR Code, dan akun tri_agustian@lycon.co.id yang menggunakan RFID.",-,Closed,,,,,
+8,22/10/2025,#LAM22102025006,LAM,Lycon Asia Mandiri,Printer App,QR Code Aseta Printing,Permintaan,Terjadi kendala pada aplikasi desktop Aseta dimana salah satu user PT. Lycon tidak dapat melakukan login dan muncul notifikasi Unhandled exception,Lampiran,Closed,,,,,
+9,23/10/2025,#LAM23102025007,LAM,Lycon Asia Mandiri,Web App,Master Data -> Asset ,Permintaan,"Edit nomor register berikut, ada kesalahan pada tahunnya:
+Awal/Salah: LAM-OFE-2024-0014
+Akhir/Benar: LAM-OFE-2025-0014",-,Closed,,,,,
+10,24/10/2025,#LAM24102025008,LAM,Lycon Asia Mandiri,Web App,Master Data -> Asset ,Permintaan,"Edit nomor registrasi berikut karena masih kurang satu tanda “-” di bagian akhir:
+Awal (salah): LAM-VEH-2021-0023
+Akhir (benar): LAM-VEH-2021-0023-",-,Closed,,,,,
+11,27/10/2025,#LAM27102025009,LAM,Lycon Asia Mandiri,Android HP,Asset View,Permintaan,"mohon dibantu, untuk asset ini saat kami lakukan scan yg keluar adalah data asset saya padahal untuk asset ini pemilik nya atas nama Harianto",-,Closed,,,,,
+12,31/10/2025,#LAM31102025010,LAM,Lycon Asia Mandiri,Web App,Asset -> Maintenance -> Inspection Log,Permintaan,Jam pelaporan inspection pada sistem tidak sesuai dengan waktu real pelaporan,Lampiran,Closed,,,,,
+13,4/11/2025,#LAM04112025011,LAM,Lycon Asia Mandiri,Web App,Master Data -> Asset ,Permintaan,"Edit nomor registrasi berikut karena terdapat kesalahan pada bagian kategorinya:
+Awal/Salah:LAM-EQP-2022-0001
+Akhir/Benar:LAM-MCH-2022-0017
+Awal/Salah:LAM-EQP-2022-0002
+Akhir/Benar:LAM-MCH-2022-0018
+Awal/Salah:LAM-EQP-2022-0003
+Akhir/Benar:LAM-MCH-2022-0019
+Awal/Salah:LAM-EQP-2020-0004
+Akhir/Benar:LAM-MCH-2020-0020
+Awal/Salah:LAM-EQP-2020-0005
+Akhir/Benar:LAM-MCH-2020-0021
+Awal/Salah:LAM-EQP-2020-0006
+Akhir/Benar:LAM-MCH-2020-0022
+Awal/Salah:LAM-EQP-2021-0015
+Akhir/Benar:LAM-MCH-2021-0023
+Awal/Salah:LAM-EQP-2022-0016
+Akhir/Benar:LAM-MCH-2022-0024",-,Closed,,,,,
+14,7/11/2025,#KSA07112025002,KSA,Komunitas Sagala Aya,Web App,Master Data -> Asset Category,Permintaan,setiap menambahkan asset kategori sering error,Lampiran,Closed,,,,,
+15,10/11/2025,#KSA10112025003,KSA,Komunitas Sagala Aya,Web App,Master Data -> Asset Kategori,Permintaan,Asset Kategori level3 hilang meskipun telah ada data aset nya. Hal ini terjadi setelah penyesuaian,-,Closed,,,,,
+16,26/11/2025,#LAM26112025012,LAM,Lycon Asia Mandiri,Web App,Asset -> Maintenance,Permintaan,"data maintenance yang perlu disesuaikan pada bagian cost-nya. Yang seharusnya 7.200.000 yang terinput adalah 720.000.000. Berikut detailnya.
+Maintenance untuk asset :
+Mobil SUV M-UX 2025 - DP1962GP
+pada Selasa, 25 November 2025
+biaya perbaikannya sebesar : Rp7,200,000",-,Closed,,,,,
+17,26/11/2025,#LAM26112025013,LAM,Lycon Asia Mandiri,Web App,Asset -> Maintenance ,Permintaan,"Perbaikan cost maintenance. 
+Berikut list detail-nya :
+
+1. LAM-VEH-2022-0018- LV Avanza DD1442XAU
+Biaya Salah : 450,002
+Biaya Benar : 450,000
+
+2. LAM-VEH-2025-0010- BT 8T DP8663GO
+Biaya Salah : 2,827,498
+Biaya Benar : 2,827,500
+
+3. LAM-VEH-2021-0027- Minibus ELF DD7343AC
+Biaya Salah : 1,604,999
+Biaya Benar : 1,605,000
+
+4. LAM-VEH-2025-0015- Minibus ELF DP7987GA
+Biaya Salah : 700,002
+Biaya Benar : 700,000",-,Closed,,,,,
+18,30/12/2025,#LAM30122025014,LAM,Lycon Asia Mandiri,Web App,Asset -> Asset List,Permintaan,"Edit nomor registrasi berikut karena terdapat kesalahan :
+Awal/Salah : LAM-EQP-2024-0089-0002
+Akhir/Benar : LAM-EQP-2025-0090-0001
+
+Dan penghapusan dua aset dengan no register LAM-EQP-2025-0090-0001 dan -0002",-,Closed,,,,,
+19,12/25/2025,#LAM30122025015,LAM,Lycon Asia Mandiri,Web App,Asset -> Asset List,Permintaan,"Edit nomor registrasi berikut karena terdapat kesalahan :
+Awal/Salah : LAM-EQP-2024-0089-0002
+Akhir/Benar : LAM-EQP-2025-0090-0001",,Closed,,,,,
+20,5/1/2026,#LAM30122025016,LAM,Lycon Asia Mandiri,Web App,Maintenance,Permintaan,Respon Warning invalid -x,,Closed,,,,,
+21,5/1/2026,#ITB05012026001,ITB,Institut Teknologi Bandung,Web App,All menu,Aktifitas,Training hari pertama ITB membahas mengenai All menu pada sistem Aseta serta berkoordinasi dengan tim Dit. SPSI mengenai template import Asset,-,Closed,,,,,
